@@ -358,6 +358,7 @@ svermeulen/vim-yoink
 svermeulen/vimpeccable
 sychen52/smart-term-esc.nvim
 tamago324/nlsp-settings.nvim
+tamago324/lir-git-status.nvim
 tamton-aquib/staline.nvim
 tanvirtin/monokai.nvim
 tanvirtin/vgit.nvim
@@ -379,7 +380,9 @@ udayvir-singh/tangerine.nvim
 uga-rosa/ccc.nvim
 utilyre/barbecue.nvim
 vigoux/complementree.nvim
+WhoIsSethDaniel/mason-tool-installer.nvim
 williamboman/mason.nvim
+williamboman/mason-lspconfig.nvim
 williamboman/nvim-lsp-installer
 windwp/nvim-projectconfig
 windwp/nvim-spectre
