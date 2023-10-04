@@ -201,3 +201,5 @@ yamatsum/nvim-cursorline
 yamatsum/nvim-nonicons
 meain/vim-printer
 kkharji/lspsaga.nvim
+aPeoplesCalendar/apc.nvim
+lewis6991/pckr.nvim
